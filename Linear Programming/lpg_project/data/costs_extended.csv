@@ -1,0 +1,21 @@
+from_location,to_location,transport_cost_per_mT,capacity (mT),hours_to_deliver
+Factory_A,Depot_1,50,100,2
+Factory_A,Depot_2,60,100,3
+Factory_A,Depot_3,55,120,3
+Factory_A,Depot_4,70,150,4
+Factory_B,Depot_2,55,120,3
+Factory_B,Depot_3,60,150,4
+Factory_B,Depot_4,65,180,4
+Factory_C,Depot_3,65,150,5
+Factory_C,Depot_4,60,150,5
+Factory_C,Depot_5,75,200,6
+Factory_D,Depot_5,70,180,5
+Factory_D,Depot_6,80,200,6
+Factory_E,Depot_6,65,220,5
+Factory_E,Depot_7,60,220,5
+Factory_F,Depot_7,75,250,6
+Factory_F,Depot_8,80,270,6
+Factory_G,Depot_8,70,250,5
+Factory_G,Depot_9,60,240,4
+Factory_H,Depot_9,50,220,4
+Factory_H,Depot_10,65,230,5

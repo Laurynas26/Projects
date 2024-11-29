@@ -1,0 +1,21 @@
+supply_location,gas_supplied (mT),transport_cost_per_mT
+Factory_A,150,50
+Factory_B,200,60
+Factory_C,180,55
+Factory_D,120,65
+Factory_E,250,50
+Factory_F,300,45
+Factory_G,400,55
+Factory_H,350,60
+Factory_I,500,40
+Factory_J,450,50
+Factory_K,600,70
+Factory_L,550,65
+Factory_M,700,60
+Factory_N,750,75
+Factory_O,800,50
+Factory_P,850,65
+Factory_Q,900,55
+Factory_R,950,60
+Factory_S,1000,45
+Factory_T,1100,70
